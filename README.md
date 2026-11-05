@@ -64,13 +64,6 @@ A music player that searches songs on YouTube with **yt-dlp** and manages playli
 - **Loop mode** that jumps from the last node back to the head
 - **Shuffle** using a list and `random.shuffle`
 
-### Project Files
-| File | Description |
-|------|-------------|
-| `musicapp.py` | Console app built on a doubly linked list; opens songs in the browser |
-| `Musicc.py` | Streamlit web app with input validation and an embedded YouTube player |
-| `Music2.py` | Streamlit web app, simpler version |
-| `Musiccc.py` | Streamlit app with a sidebar menu and audio streaming |
 
 ### Install and Run
 ```bash
