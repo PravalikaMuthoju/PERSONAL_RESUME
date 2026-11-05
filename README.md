@@ -65,6 +65,32 @@ A music player that searches songs on YouTube with **yt-dlp** and manages playli
 - **Shuffle** using a list and `random.shuffle`
 
 
+## Sample Output
+
+```
+Enter your username: Pravalika
+
+Welcome to Smart Spotify, Pravalika 🎧
+
+========== MENU ==========
+1 Add Song to Playlist
+2 Show Playlist
+3 Play Current Song
+4 Next Song
+5 Previous Song
+6 Search and Play Song Online
+7 Shuffle Playlist
+8 Like Current Song
+9 Show Favorite Songs
+10 Recently Played
+11 Toggle Loop Mode
+0 Exit
+
+Enter choice: 1
+Enter song name: Believer
+🎵 Song added to playlist: Believer
+```
+
 ### Install and Run
 ```bash
 pip install streamlit yt-dlp
